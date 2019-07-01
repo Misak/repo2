@@ -27,7 +27,7 @@ insights to your home.
 ![Grafana in the Home Assistant Frontend][screenshot]
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/frenck
+[buymeacoffee]: https://www.buymeacoffee.com/misak
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
 [docs]: https://github.com/hassio-addons/addon-grafana/blob/v2.2.1/README.md
