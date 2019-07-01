@@ -6,8 +6,6 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-[![Support my work on Patreon][patreon-shield]][patreon]
-
 The open platform for beautiful analytics and monitoring.
 
 ## About
@@ -34,8 +32,6 @@ insights to your home.
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/community-hass-io-add-on-grafana/54674?u=frenck
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
-[patreon-shield]: https://www.frenck.nl/images/patreon.png
-[patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [release-shield]: https://img.shields.io/badge/version-v2.2.1-blue.svg
 [release]: https://github.com/hassio-addons/addon-grafana/tree/v2.2.1
