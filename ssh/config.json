@@ -19,7 +19,7 @@
     "i386"
   ],
   "ports": {
-    "22/tcp": 22,
+    "22/tcp": 2222,
     "80/tcp": null
   },
   "ports_description": {
