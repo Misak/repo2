@@ -5,7 +5,7 @@
   "description": "Flow-based programming for the Internet of Things",
   "url": "https://github.com/hassio-addons/addon-node-red",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:80]",
-  "ingress": true,
+  "ingress": false,
   "ingress_port": 0,
   "panel_icon": "mdi:sitemap",
   "startup": "application",
